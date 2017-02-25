@@ -21,7 +21,7 @@
 	font-size: 22px;
 	color: #333333;
 	padding: 10px 12% 20px 12%;
-	margin-bottom: 20px;
+	margin: 10px 10px 20px 10px;
 }
 
 .jumbotron button {
@@ -68,6 +68,7 @@
 }
 
 .navigation {
+	margin-left: 10px;
 	display: block;
 	text-align: center;
 	padding: 0;
